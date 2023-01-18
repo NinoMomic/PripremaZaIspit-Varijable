@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\PripremZaProvjeruZnanja1\bin\Debug\PripremZaProvjeruZnanja1.exe.config
+C:\Users\ucenik\source\repos\PripremZaProvjeruZnanja1\bin\Debug\PripremZaProvjeruZnanja1.exe
+C:\Users\ucenik\source\repos\PripremZaProvjeruZnanja1\bin\Debug\PripremZaProvjeruZnanja1.pdb
+C:\Users\ucenik\source\repos\PripremZaProvjeruZnanja1\obj\Debug\PripremZaProvjeruZnanja1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\PripremZaProvjeruZnanja1\obj\Debug\PripremZaProvjeruZnanja1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\PripremZaProvjeruZnanja1\obj\Debug\PripremZaProvjeruZnanja1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\PripremZaProvjeruZnanja1\obj\Debug\PripremZaProvjeruZnanja1.exe
+C:\Users\ucenik\source\repos\PripremZaProvjeruZnanja1\obj\Debug\PripremZaProvjeruZnanja1.pdb
