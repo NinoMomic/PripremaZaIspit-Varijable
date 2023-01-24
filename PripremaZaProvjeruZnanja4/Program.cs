@@ -17,6 +17,8 @@ namespace PripremaZaProvjeruZnanja4
             int xX = Convert.ToInt32(s1X) * 2;
             double yX = Convert.ToDouble(sX.Substring(posX + 1)) * 2;
             Console.WriteLine("{0} {1}", xX, yX);
+            
+            Console.ReadKey();
         }
     }
 }
