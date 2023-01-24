@@ -10,7 +10,6 @@ namespace PripremaZaProvjeruZnanja4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("1.4");
             Console.WriteLine("Unesite cijeli i decimalni broj odvojene razmakom: ");
             string sX = Console.ReadLine();
             int posX = sX.IndexOf(' ');
